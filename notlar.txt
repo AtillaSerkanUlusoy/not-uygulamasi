@@ -1,0 +1,5 @@
+pwd : bulundugun klasoru gosterir
+ls: klasordeki dosyalari listeler
+echo: txt icinde metin yazdirir
+git branch: dallari listeler olusturur veya siler
+git innit: bulunan klasore yeni bir git deposu olusturur
