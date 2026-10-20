@@ -8,3 +8,4 @@ git push: bilgisayardaki kayitli degisiklikleri uzak sunucuya gonderir
 git add: yapilan degisikleri kaydetmek uzere hazirlik asamasina yani staging areaya ekler
 git commit: hazirlik asamasindaki degisiklikleri ne yapildigina dair kisa bir mesajla birlikte kalici olarak kaydeter
 git clone: Uzak sunucudaki mevcut bir projeyi bilgisayariniza indirir.
+cat: metin dosyalarini goruntuler
