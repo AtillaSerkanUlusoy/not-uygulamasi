@@ -2,4 +2,9 @@ pwd : bulundugun klasoru gosterir
 ls: klasordeki dosyalari listeler
 echo: txt icinde metin yazdirir
 git branch: dallari listeler olusturur veya siler
-git innit: bulunan klasore yeni bir git deposu olusturur
+git init: bulunan klasore yeni bir git deposu olusturur
+git status: dosyalarin durumunu gosterir
+git push: bilgisayardaki kayitli degisiklikleri uzak sunucuya gonderir
+git add: yapilan degisikleri kaydetmek uzere hazirlik asamasina yani staging areaya ekler
+git commit: hazirlik asamasindaki degisiklikleri ne yapildigina dair kisa bir mesajla birlikte kalici olarak kaydeter
+git clone: Uzak sunucudaki mevcut bir projeyi bilgisayariniza indirir.
